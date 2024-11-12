@@ -61,7 +61,7 @@
 <p>Contributions are welcome! Please open an issue or submit a pull request to improve this project.</p>
 
 <h2>Contact</h2>
-<p>For questions or feedback, reach out to <a href="mailto:aqibjamal2002@gmail.com">your-email@example.com</a>.</p>
+<p>For questions or feedback, reach out to <a href="mailto:aqibjamal2002@gmail.com">aqibjamal2002@gmail.com</a>.</p>
 
 </body>
 </html>
